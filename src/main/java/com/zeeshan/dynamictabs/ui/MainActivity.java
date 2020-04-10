@@ -1,4 +1,4 @@
-package com.zeeshan.dynamictabs.ui.activities;
+package com.zeeshan.dynamictabs.ui;
 
 import android.animation.ValueAnimator;
 import android.os.Bundle;
@@ -15,7 +15,6 @@ import androidx.lifecycle.ViewModelProvider;
 
 import com.google.android.material.tabs.TabLayout;
 import com.zeeshan.dynamictabs.BR;
-import com.zeeshan.dynamictabs.BlankFragment;
 import com.zeeshan.dynamictabs.R;
 import com.zeeshan.dynamictabs.data.TabModel;
 import com.zeeshan.dynamictabs.databinding.ActivityMainBinding;

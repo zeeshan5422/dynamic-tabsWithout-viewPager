@@ -1,6 +1,6 @@
 package com.zeeshan.dynamictabs.data;
 
-import com.zeeshan.dynamictabs.ui.activities.MainActivity;
+import com.zeeshan.dynamictabs.ui.MainActivity;
 
 import java.util.ArrayList;
 import java.util.Collections;
